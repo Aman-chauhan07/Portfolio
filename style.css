@@ -1273,6 +1273,9 @@ body {
 .icon-python { color: #3776ab; }
 .icon-python::before { content: 'Py'; }
 
+.icon-tailwind { color: #61dafb; }
+.icon-tailwind::before { content: '≋'; font-size: 28px; }
+
 /* Enhanced Projects Section */
 .projects {
     padding: var(--spacing-3xl) 0;
