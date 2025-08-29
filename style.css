@@ -110,9 +110,10 @@ body {
     line-height: 1.6;
     color: var(--text-primary);
     background: var(--background-primary);
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     transition: all var(--transition-base);
     position: relative;
+    /* overflow: hidden; */
 }
 
 /* Enhanced Stars Background */
