@@ -113,7 +113,6 @@ body {
     /* overflow-x: hidden; */
     transition: all var(--transition-base);
     position: relative;
-    /* overflow: hidden; */
 }
 
 /* Enhanced Stars Background */
